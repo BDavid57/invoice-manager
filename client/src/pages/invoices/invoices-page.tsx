@@ -15,7 +15,6 @@ export const InvoicesPage = () => {
 
   if (isLoading) return <p className="p-4">Loading…</p>;
   if (error) return <p className="p-4 text-red-500">Error loading invoices</p>;
-  console.log('rendering the list')
 
   return (
     <div className="p-6">
