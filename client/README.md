@@ -21,3 +21,10 @@ React + Vite application that consumes the NestJS Invoice-Manager API.
 npm install       
 npm run dev    
 ```
+
+## 🔐 Login Credentials
+
+Use the following credentials to log in:
+
+- **Email:** admin@company.com  
+- **Password:** securepassword
